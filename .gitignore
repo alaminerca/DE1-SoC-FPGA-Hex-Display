@@ -1,0 +1,18 @@
+# Quartus generated files
+db/
+incremental_db/
+simulation/
+output_files/*.rpt
+output_files/*.summary
+output_files/*.smsg
+output_files/*.pin
+output_files/*.sld
+output_files/*.pof
+*.bak
+*.qws
+*.done
+Cyclone_V.csv
+c5_pin_model_dump.txt
+
+# Keep the .sof bitstream
+!output_files/*.sof
